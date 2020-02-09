@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Teko Regular'), local('Teko-Regular'), url(https://fonts.gstatic.com/s/teko/v9/LYjNdG7kmE0gfaN9ow.woff) format('woff');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Teko Medium'), local('Teko-Medium'), url(https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdVBesCRgrg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Teko SemiBold'), local('Teko-SemiBold'), url(https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdXxZsCRgrg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Teko Bold'), local('Teko-Bold'), url(https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdRhYsCRgrg.woff) format('woff');
+}
